@@ -1,0 +1,3 @@
+[submodule "meta-mistysom"]
+	path = meta-mistysom
+	url = https://github.com/MistySOM/meta-mistysom.git
